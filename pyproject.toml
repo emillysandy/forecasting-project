@@ -1,7 +1,7 @@
 [project]
-name = "forecasting-project"
+name = "m5-monthly-sku-forecast"
 version = "0.1.0"
-description = "Add your description here"
+description = "Monthly SKU demand forecasting using tabular time-series features (M5 / Walmart)."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
